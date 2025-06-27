@@ -1,0 +1,11 @@
+.btn1{
+    background-color: green;
+}
+.btn2{
+   background-color: rgb(156, 28, 5); 
+}
+
+.div2{
+    display: flex;
+    gap: 20px;
+}
